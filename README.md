@@ -14,3 +14,4 @@ In this project, I have implemented the basic unix shell commands from scratch i
 * rm  
 * Chmod 
 * Mkdir 
+* It can also run inbuilt binaries (like ps, pmap, wget, etc.) with arguments.
